@@ -48,3 +48,23 @@
     height: 80px;
     background-color: cornflowerblue;
 }
+
+.bottone-su {
+    width: 10px;
+    height: 10px;
+    background-color: lightgrey;
+    border-radius: 10px 10px;
+    padding: 3px 5px;
+    margin: 90px;
+}
+
+.bottone-giu {
+    width: 10px;
+    height: 10px;
+    background-color: lightgrey;
+    border-radius: 10px 10px;
+    padding: 3px 5px;
+    margin: 90px;
+    position: relative;
+    top: 3rem;
+}
